@@ -1,0 +1,12 @@
+https://gist.github.com/codecademydev/519912d348fff7b408fe3101e8c93a78 
+
+package main
+
+import "fmt"
+
+func main () {
+  fmt.Println("  __      _")
+  fmt.Println("o'')}____//")
+  fmt.Println(" `_/      )")
+  fmt.Println(" (_(_/-(_/")
+}
